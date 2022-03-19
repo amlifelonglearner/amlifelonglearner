@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @amlifelonglearner
+- 👀 I’m interested in Big data, data integration, cloud computing, Machine learning and automation. I love SQL, Python ...
+- 🌱 I’m currently learning Python ...
+- 📫  ...
+
+<!---
+amlifelonglearner/amlifelonglearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
